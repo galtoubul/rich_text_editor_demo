@@ -22,6 +22,7 @@ const Form = () => {
     <div css={formContainer}>
       <h1 css={title}>Rich Text Editor Demo</h1>
       <RichTextEditor />
+      Open console to see the generated html
     </div>
   );
 };
